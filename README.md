@@ -1,9 +1,9 @@
 # STOMP NIO
 
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Ffpseverino%2Fstomp-nio%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/fpseverino/stomp-nio)
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Ffpseverino%2Fstomp-nio%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/fpseverino/stomp-nio)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/fpseverino/stomp-nio/ci.yml)
-![Codecov](https://img.shields.io/codecov/c/github/fpseverino/stomp-nio)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswift-server-community%2Fstomp-nio%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/swift-server-community/stomp-nio)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswift-server-community%2Fstomp-nio%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swift-server-community/stomp-nio)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/swift-server-community/stomp-nio/ci.yml)
+![Codecov](https://img.shields.io/codecov/c/github/swift-server-community/stomp-nio)
 
 A Swift NIO based STOMP v1.0, v1.1 and v1.2 client.
 
@@ -93,4 +93,4 @@ try await stompClient.subscribe(to: "/queue/a") { subscription in
 
 ## Documentation
 
-User guides and reference documentation for STOMP NIO can be found on the [Swift Package Index](https://swiftpackageindex.com/fpseverino/stomp-nio/documentation).
+User guides and reference documentation for STOMP NIO can be found on the [Swift Package Index](https://swiftpackageindex.com/swift-server-community/stomp-nio/documentation).

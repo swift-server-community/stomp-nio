@@ -4,7 +4,7 @@ The STOMP NIO Project
 
 Please visit the STOMP NIO web site for more information:
 
-* https://github.com/fpseverino/stomp-nio
+* https://github.com/swift-server-community/stomp-nio
 
 Copyright 2025 Francesco Paolo Severino
 

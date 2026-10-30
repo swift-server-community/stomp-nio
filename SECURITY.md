@@ -13,7 +13,7 @@ These will receive security updates as and when needed.
 ## Reporting a Vulnerability
 
 If you believe you have found a security vulnerability in STOMPNIO please do not post this in a public forum, do not create a GitHub Issue.
-Instead you should submit a security advisory via [GitHub](https://github.com/fpseverino/stomp-nio/security/advisories/new) with details of the issue.
+Instead you should submit a security advisory via [GitHub](https://github.com/swift-server-community/stomp-nio/security/advisories/new) with details of the issue.
 
 ### What happens next?
 
